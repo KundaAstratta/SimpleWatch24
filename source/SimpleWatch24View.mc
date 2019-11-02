@@ -196,7 +196,7 @@ class SimpleWatch24View extends Ui.WatchFace {
         // to draw the line time
         var hour_fraction = min / 60.0;
         var minute_angle = hour_fraction * TWO_PI;
-        //heure sous format 24
+        //first commit for 24 hours watch
         var hour_angle = ((hour  + hour_fraction) / 24.0) * TWO_PI;
         
         var seconde_angle = sec / 60.0 * TWO_PI;
