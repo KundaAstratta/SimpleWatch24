@@ -1,0 +1,471 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<debugInfo>
+<pcToLineNum>
+<entry filename="/Users/christophehumbert/eclipse-workspace/SimpleWatch24/source/SimpleWatch24View.mc" id="3" lineNum="28" pc="268435456" symbol="initialize"/>
+<entry filename="/Users/christophehumbert/eclipse-workspace/SimpleWatch24/source/SimpleWatch24View.mc" id="3" lineNum="29" pc="268435460" symbol="initialize"/>
+<entry filename="/Users/christophehumbert/eclipse-workspace/SimpleWatch24/source/SimpleWatch24View.mc" id="4" lineNum="33" pc="268435479" symbol="onLayout"/>
+<entry filename="/Users/christophehumbert/eclipse-workspace/SimpleWatch24/source/SimpleWatch24View.mc" id="5" lineNum="40" pc="268435484" symbol="onShow"/>
+<entry filename="/Users/christophehumbert/eclipse-workspace/SimpleWatch24/source/SimpleWatch24View.mc" id="6" lineNum="44" pc="268435489" symbol="onUpdate"/>
+<entry filename="/Users/christophehumbert/eclipse-workspace/SimpleWatch24/source/SimpleWatch24View.mc" id="6" lineNum="47" pc="268435493" symbol="onUpdate"/>
+<entry filename="/Users/christophehumbert/eclipse-workspace/SimpleWatch24/source/SimpleWatch24View.mc" id="6" lineNum="48" pc="268435512" symbol="onUpdate"/>
+<entry filename="/Users/christophehumbert/eclipse-workspace/SimpleWatch24/source/SimpleWatch24View.mc" id="6" lineNum="49" pc="268435531" symbol="onUpdate"/>
+<entry filename="/Users/christophehumbert/eclipse-workspace/SimpleWatch24/source/SimpleWatch24View.mc" id="6" lineNum="50" pc="268435544" symbol="onUpdate"/>
+<entry filename="/Users/christophehumbert/eclipse-workspace/SimpleWatch24/source/SimpleWatch24View.mc" id="6" lineNum="53" pc="268435554" symbol="onUpdate"/>
+<entry filename="/Users/christophehumbert/eclipse-workspace/SimpleWatch24/source/SimpleWatch24View.mc" id="6" lineNum="54" pc="268435561" symbol="onUpdate"/>
+<entry filename="/Users/christophehumbert/eclipse-workspace/SimpleWatch24/source/SimpleWatch24View.mc" id="6" lineNum="55" pc="268435568" symbol="onUpdate"/>
+<entry filename="/Users/christophehumbert/eclipse-workspace/SimpleWatch24/source/SimpleWatch24View.mc" id="6" lineNum="56" pc="268435575" symbol="onUpdate"/>
+<entry filename="/Users/christophehumbert/eclipse-workspace/SimpleWatch24/source/SimpleWatch24View.mc" id="6" lineNum="57" pc="268435582" symbol="onUpdate"/>
+<entry filename="/Users/christophehumbert/eclipse-workspace/SimpleWatch24/source/SimpleWatch24View.mc" id="6" lineNum="58" pc="268435589" symbol="onUpdate"/>
+<entry filename="/Users/christophehumbert/eclipse-workspace/SimpleWatch24/source/SimpleWatch24View.mc" id="6" lineNum="59" pc="268435596" symbol="onUpdate"/>
+<entry filename="/Users/christophehumbert/eclipse-workspace/SimpleWatch24/source/SimpleWatch24View.mc" id="6" lineNum="60" pc="268435603" symbol="onUpdate"/>
+<entry filename="/Users/christophehumbert/eclipse-workspace/SimpleWatch24/source/SimpleWatch24View.mc" id="6" lineNum="63" pc="268435610" symbol="onUpdate"/>
+<entry filename="/Users/christophehumbert/eclipse-workspace/SimpleWatch24/source/SimpleWatch24View.mc" id="6" lineNum="65" pc="268435641" symbol="onUpdate"/>
+<entry filename="/Users/christophehumbert/eclipse-workspace/SimpleWatch24/source/SimpleWatch24View.mc" id="6" lineNum="66" pc="268435682" symbol="onUpdate"/>
+<entry filename="/Users/christophehumbert/eclipse-workspace/SimpleWatch24/source/SimpleWatch24View.mc" id="6" lineNum="68" pc="268435714" symbol="onUpdate"/>
+<entry filename="/Users/christophehumbert/eclipse-workspace/SimpleWatch24/source/SimpleWatch24View.mc" id="6" lineNum="69" pc="268435721" symbol="onUpdate"/>
+<entry filename="/Users/christophehumbert/eclipse-workspace/SimpleWatch24/source/SimpleWatch24View.mc" id="6" lineNum="70" pc="268435728" symbol="onUpdate"/>
+<entry filename="/Users/christophehumbert/eclipse-workspace/SimpleWatch24/source/SimpleWatch24View.mc" id="6" lineNum="71" pc="268435735" symbol="onUpdate"/>
+<entry filename="/Users/christophehumbert/eclipse-workspace/SimpleWatch24/source/SimpleWatch24View.mc" id="6" lineNum="72" pc="268435742" symbol="onUpdate"/>
+<entry filename="/Users/christophehumbert/eclipse-workspace/SimpleWatch24/source/SimpleWatch24View.mc" id="6" lineNum="73" pc="268435749" symbol="onUpdate"/>
+<entry filename="/Users/christophehumbert/eclipse-workspace/SimpleWatch24/source/SimpleWatch24View.mc" id="6" lineNum="74" pc="268435756" symbol="onUpdate"/>
+<entry filename="/Users/christophehumbert/eclipse-workspace/SimpleWatch24/source/SimpleWatch24View.mc" id="6" lineNum="75" pc="268435763" symbol="onUpdate"/>
+<entry filename="/Users/christophehumbert/eclipse-workspace/SimpleWatch24/source/SimpleWatch24View.mc" id="6" lineNum="78" pc="268435770" symbol="onUpdate"/>
+<entry filename="/Users/christophehumbert/eclipse-workspace/SimpleWatch24/source/SimpleWatch24View.mc" id="6" lineNum="79" pc="268435781" symbol="onUpdate"/>
+<entry filename="/Users/christophehumbert/eclipse-workspace/SimpleWatch24/source/SimpleWatch24View.mc" id="6" lineNum="80" pc="268435788" symbol="onUpdate"/>
+<entry filename="/Users/christophehumbert/eclipse-workspace/SimpleWatch24/source/SimpleWatch24View.mc" id="6" lineNum="81" pc="268435795" symbol="onUpdate"/>
+<entry filename="/Users/christophehumbert/eclipse-workspace/SimpleWatch24/source/SimpleWatch24View.mc" id="6" lineNum="82" pc="268435802" symbol="onUpdate"/>
+<entry filename="/Users/christophehumbert/eclipse-workspace/SimpleWatch24/source/SimpleWatch24View.mc" id="6" lineNum="83" pc="268435809" symbol="onUpdate"/>
+<entry filename="/Users/christophehumbert/eclipse-workspace/SimpleWatch24/source/SimpleWatch24View.mc" id="6" lineNum="88" pc="268435822" symbol="onUpdate"/>
+<entry filename="/Users/christophehumbert/eclipse-workspace/SimpleWatch24/source/SimpleWatch24View.mc" id="6" lineNum="89" pc="268435829" symbol="onUpdate"/>
+<entry filename="/Users/christophehumbert/eclipse-workspace/SimpleWatch24/source/SimpleWatch24View.mc" id="6" lineNum="90" pc="268435836" symbol="onUpdate"/>
+<entry filename="/Users/christophehumbert/eclipse-workspace/SimpleWatch24/source/SimpleWatch24View.mc" id="6" lineNum="91" pc="268435843" symbol="onUpdate"/>
+<entry filename="/Users/christophehumbert/eclipse-workspace/SimpleWatch24/source/SimpleWatch24View.mc" id="6" lineNum="92" pc="268435850" symbol="onUpdate"/>
+<entry filename="/Users/christophehumbert/eclipse-workspace/SimpleWatch24/source/SimpleWatch24View.mc" id="6" lineNum="93" pc="268435857" symbol="onUpdate"/>
+<entry filename="/Users/christophehumbert/eclipse-workspace/SimpleWatch24/source/SimpleWatch24View.mc" id="6" lineNum="94" pc="268435864" symbol="onUpdate"/>
+<entry filename="/Users/christophehumbert/eclipse-workspace/SimpleWatch24/source/SimpleWatch24View.mc" id="6" lineNum="95" pc="268435871" symbol="onUpdate"/>
+<entry filename="/Users/christophehumbert/eclipse-workspace/SimpleWatch24/source/SimpleWatch24View.mc" id="6" lineNum="98" pc="268435878" symbol="onUpdate"/>
+<entry filename="/Users/christophehumbert/eclipse-workspace/SimpleWatch24/source/SimpleWatch24View.mc" id="6" lineNum="99" pc="268435889" symbol="onUpdate"/>
+<entry filename="/Users/christophehumbert/eclipse-workspace/SimpleWatch24/source/SimpleWatch24View.mc" id="6" lineNum="100" pc="268435896" symbol="onUpdate"/>
+<entry filename="/Users/christophehumbert/eclipse-workspace/SimpleWatch24/source/SimpleWatch24View.mc" id="6" lineNum="101" pc="268435903" symbol="onUpdate"/>
+<entry filename="/Users/christophehumbert/eclipse-workspace/SimpleWatch24/source/SimpleWatch24View.mc" id="6" lineNum="102" pc="268435910" symbol="onUpdate"/>
+<entry filename="/Users/christophehumbert/eclipse-workspace/SimpleWatch24/source/SimpleWatch24View.mc" id="6" lineNum="103" pc="268435917" symbol="onUpdate"/>
+<entry filename="/Users/christophehumbert/eclipse-workspace/SimpleWatch24/source/SimpleWatch24View.mc" id="6" lineNum="110" pc="268435930" symbol="onUpdate"/>
+<entry filename="/Users/christophehumbert/eclipse-workspace/SimpleWatch24/source/SimpleWatch24View.mc" id="6" lineNum="112" pc="268435937" symbol="onUpdate"/>
+<entry filename="/Users/christophehumbert/eclipse-workspace/SimpleWatch24/source/SimpleWatch24View.mc" id="6" lineNum="114" pc="268435944" symbol="onUpdate"/>
+<entry filename="/Users/christophehumbert/eclipse-workspace/SimpleWatch24/source/SimpleWatch24View.mc" id="6" lineNum="116" pc="268435951" symbol="onUpdate"/>
+<entry filename="/Users/christophehumbert/eclipse-workspace/SimpleWatch24/source/SimpleWatch24View.mc" id="6" lineNum="118" pc="268435958" symbol="onUpdate"/>
+<entry filename="/Users/christophehumbert/eclipse-workspace/SimpleWatch24/source/SimpleWatch24View.mc" id="6" lineNum="120" pc="268435965" symbol="onUpdate"/>
+<entry filename="/Users/christophehumbert/eclipse-workspace/SimpleWatch24/source/SimpleWatch24View.mc" id="6" lineNum="122" pc="268435972" symbol="onUpdate"/>
+<entry filename="/Users/christophehumbert/eclipse-workspace/SimpleWatch24/source/SimpleWatch24View.mc" id="6" lineNum="124" pc="268435979" symbol="onUpdate"/>
+<entry filename="/Users/christophehumbert/eclipse-workspace/SimpleWatch24/source/SimpleWatch24View.mc" id="6" lineNum="127" pc="268435986" symbol="onUpdate"/>
+<entry filename="/Users/christophehumbert/eclipse-workspace/SimpleWatch24/source/SimpleWatch24View.mc" id="6" lineNum="128" pc="268435997" symbol="onUpdate"/>
+<entry filename="/Users/christophehumbert/eclipse-workspace/SimpleWatch24/source/SimpleWatch24View.mc" id="6" lineNum="129" pc="268436004" symbol="onUpdate"/>
+<entry filename="/Users/christophehumbert/eclipse-workspace/SimpleWatch24/source/SimpleWatch24View.mc" id="6" lineNum="130" pc="268436011" symbol="onUpdate"/>
+<entry filename="/Users/christophehumbert/eclipse-workspace/SimpleWatch24/source/SimpleWatch24View.mc" id="6" lineNum="131" pc="268436018" symbol="onUpdate"/>
+<entry filename="/Users/christophehumbert/eclipse-workspace/SimpleWatch24/source/SimpleWatch24View.mc" id="6" lineNum="132" pc="268436025" symbol="onUpdate"/>
+<entry filename="/Users/christophehumbert/eclipse-workspace/SimpleWatch24/source/SimpleWatch24View.mc" id="6" lineNum="133" pc="268436032" symbol="onUpdate"/>
+<entry filename="/Users/christophehumbert/eclipse-workspace/SimpleWatch24/source/SimpleWatch24View.mc" id="6" lineNum="134" pc="268436039" symbol="onUpdate"/>
+<entry filename="/Users/christophehumbert/eclipse-workspace/SimpleWatch24/source/SimpleWatch24View.mc" id="6" lineNum="142" pc="268436049" symbol="onUpdate"/>
+<entry filename="/Users/christophehumbert/eclipse-workspace/SimpleWatch24/source/SimpleWatch24View.mc" id="6" lineNum="144" pc="268436056" symbol="onUpdate"/>
+<entry filename="/Users/christophehumbert/eclipse-workspace/SimpleWatch24/source/SimpleWatch24View.mc" id="6" lineNum="146" pc="268436063" symbol="onUpdate"/>
+<entry filename="/Users/christophehumbert/eclipse-workspace/SimpleWatch24/source/SimpleWatch24View.mc" id="6" lineNum="149" pc="268436070" symbol="onUpdate"/>
+<entry filename="/Users/christophehumbert/eclipse-workspace/SimpleWatch24/source/SimpleWatch24View.mc" id="6" lineNum="150" pc="268436074" symbol="onUpdate"/>
+<entry filename="/Users/christophehumbert/eclipse-workspace/SimpleWatch24/source/SimpleWatch24View.mc" id="6" lineNum="151" pc="268436078" symbol="onUpdate"/>
+<entry filename="/Users/christophehumbert/eclipse-workspace/SimpleWatch24/source/SimpleWatch24View.mc" id="6" lineNum="152" pc="268436085" symbol="onUpdate"/>
+<entry filename="/Users/christophehumbert/eclipse-workspace/SimpleWatch24/source/SimpleWatch24View.mc" id="6" lineNum="155" pc="268436085" symbol="onUpdate"/>
+<entry filename="/Users/christophehumbert/eclipse-workspace/SimpleWatch24/source/SimpleWatch24View.mc" id="6" lineNum="158" pc="268436097" symbol="onUpdate"/>
+<entry filename="/Users/christophehumbert/eclipse-workspace/SimpleWatch24/source/SimpleWatch24View.mc" id="6" lineNum="159" pc="268436104" symbol="onUpdate"/>
+<entry filename="/Users/christophehumbert/eclipse-workspace/SimpleWatch24/source/SimpleWatch24View.mc" id="6" lineNum="160" pc="268436118" symbol="onUpdate"/>
+<entry filename="/Users/christophehumbert/eclipse-workspace/SimpleWatch24/source/SimpleWatch24View.mc" id="6" lineNum="161" pc="268436132" symbol="onUpdate"/>
+<entry filename="/Users/christophehumbert/eclipse-workspace/SimpleWatch24/source/SimpleWatch24View.mc" id="6" lineNum="163" pc="268436163" symbol="onUpdate"/>
+<entry filename="/Users/christophehumbert/eclipse-workspace/SimpleWatch24/source/SimpleWatch24View.mc" id="6" lineNum="164" pc="268436174" symbol="onUpdate"/>
+<entry filename="/Users/christophehumbert/eclipse-workspace/SimpleWatch24/source/SimpleWatch24View.mc" id="6" lineNum="165" pc="268436188" symbol="onUpdate"/>
+<entry filename="/Users/christophehumbert/eclipse-workspace/SimpleWatch24/source/SimpleWatch24View.mc" id="6" lineNum="167" pc="268436205" symbol="onUpdate"/>
+<entry filename="/Users/christophehumbert/eclipse-workspace/SimpleWatch24/source/SimpleWatch24View.mc" id="6" lineNum="168" pc="268436219" symbol="onUpdate"/>
+<entry filename="/Users/christophehumbert/eclipse-workspace/SimpleWatch24/source/SimpleWatch24View.mc" id="6" lineNum="173" pc="268436233" symbol="onUpdate"/>
+<entry filename="/Users/christophehumbert/eclipse-workspace/SimpleWatch24/source/SimpleWatch24View.mc" id="6" lineNum="174" pc="268436259" symbol="onUpdate"/>
+<entry filename="/Users/christophehumbert/eclipse-workspace/SimpleWatch24/source/SimpleWatch24View.mc" id="6" lineNum="178" pc="268436277" symbol="onUpdate"/>
+<entry filename="/Users/christophehumbert/eclipse-workspace/SimpleWatch24/source/SimpleWatch24View.mc" id="6" lineNum="179" pc="268436291" symbol="onUpdate"/>
+<entry filename="/Users/christophehumbert/eclipse-workspace/SimpleWatch24/source/SimpleWatch24View.mc" id="6" lineNum="181" pc="268436327" symbol="onUpdate"/>
+<entry filename="/Users/christophehumbert/eclipse-workspace/SimpleWatch24/source/SimpleWatch24View.mc" id="6" lineNum="183" pc="268436345" symbol="onUpdate"/>
+<entry filename="/Users/christophehumbert/eclipse-workspace/SimpleWatch24/source/SimpleWatch24View.mc" id="6" lineNum="184" pc="268436359" symbol="onUpdate"/>
+<entry filename="/Users/christophehumbert/eclipse-workspace/SimpleWatch24/source/SimpleWatch24View.mc" id="6" lineNum="186" pc="268436395" symbol="onUpdate"/>
+<entry filename="/Users/christophehumbert/eclipse-workspace/SimpleWatch24/source/SimpleWatch24View.mc" id="6" lineNum="191" pc="268436416" symbol="onUpdate"/>
+<entry filename="/Users/christophehumbert/eclipse-workspace/SimpleWatch24/source/SimpleWatch24View.mc" id="6" lineNum="192" pc="268436433" symbol="onUpdate"/>
+<entry filename="/Users/christophehumbert/eclipse-workspace/SimpleWatch24/source/SimpleWatch24View.mc" id="6" lineNum="193" pc="268436443" symbol="onUpdate"/>
+<entry filename="/Users/christophehumbert/eclipse-workspace/SimpleWatch24/source/SimpleWatch24View.mc" id="6" lineNum="194" pc="268436453" symbol="onUpdate"/>
+<entry filename="/Users/christophehumbert/eclipse-workspace/SimpleWatch24/source/SimpleWatch24View.mc" id="6" lineNum="197" pc="268436463" symbol="onUpdate"/>
+<entry filename="/Users/christophehumbert/eclipse-workspace/SimpleWatch24/source/SimpleWatch24View.mc" id="6" lineNum="198" pc="268436473" symbol="onUpdate"/>
+<entry filename="/Users/christophehumbert/eclipse-workspace/SimpleWatch24/source/SimpleWatch24View.mc" id="6" lineNum="200" pc="268436486" symbol="onUpdate"/>
+<entry filename="/Users/christophehumbert/eclipse-workspace/SimpleWatch24/source/SimpleWatch24View.mc" id="6" lineNum="202" pc="268436508" symbol="onUpdate"/>
+<entry filename="/Users/christophehumbert/eclipse-workspace/SimpleWatch24/source/SimpleWatch24View.mc" id="6" lineNum="205" pc="268436527" symbol="onUpdate"/>
+<entry filename="/Users/christophehumbert/eclipse-workspace/SimpleWatch24/source/SimpleWatch24View.mc" id="6" lineNum="206" pc="268436540" symbol="onUpdate"/>
+<entry filename="/Users/christophehumbert/eclipse-workspace/SimpleWatch24/source/SimpleWatch24View.mc" id="6" lineNum="207" pc="268436553" symbol="onUpdate"/>
+<entry filename="/Users/christophehumbert/eclipse-workspace/SimpleWatch24/source/SimpleWatch24View.mc" id="6" lineNum="214" pc="268436566" symbol="onUpdate"/>
+<entry filename="/Users/christophehumbert/eclipse-workspace/SimpleWatch24/source/SimpleWatch24View.mc" id="6" lineNum="215" pc="268436570" symbol="onUpdate"/>
+<entry filename="/Users/christophehumbert/eclipse-workspace/SimpleWatch24/source/SimpleWatch24View.mc" id="6" lineNum="219" pc="268436589" symbol="onUpdate"/>
+<entry filename="/Users/christophehumbert/eclipse-workspace/SimpleWatch24/source/SimpleWatch24View.mc" id="6" lineNum="221" pc="268436618" symbol="onUpdate"/>
+<entry filename="/Users/christophehumbert/eclipse-workspace/SimpleWatch24/source/SimpleWatch24View.mc" id="6" lineNum="228" pc="268436647" symbol="onUpdate"/>
+<entry filename="/Users/christophehumbert/eclipse-workspace/SimpleWatch24/source/SimpleWatch24View.mc" id="6" lineNum="233" pc="268436678" symbol="onUpdate"/>
+<entry filename="/Users/christophehumbert/eclipse-workspace/SimpleWatch24/source/SimpleWatch24View.mc" id="6" lineNum="240" pc="268436692" symbol="onUpdate"/>
+<entry filename="/Users/christophehumbert/eclipse-workspace/SimpleWatch24/source/SimpleWatch24View.mc" id="6" lineNum="241" pc="268436709" symbol="onUpdate"/>
+<entry filename="/Users/christophehumbert/eclipse-workspace/SimpleWatch24/source/SimpleWatch24View.mc" id="6" lineNum="243" pc="268436726" symbol="onUpdate"/>
+<entry filename="/Users/christophehumbert/eclipse-workspace/SimpleWatch24/source/SimpleWatch24View.mc" id="6" lineNum="248" pc="268436740" symbol="onUpdate"/>
+<entry filename="/Users/christophehumbert/eclipse-workspace/SimpleWatch24/source/SimpleWatch24View.mc" id="6" lineNum="249" pc="268436757" symbol="onUpdate"/>
+<entry filename="/Users/christophehumbert/eclipse-workspace/SimpleWatch24/source/SimpleWatch24View.mc" id="6" lineNum="250" pc="268436788" symbol="onUpdate"/>
+<entry filename="/Users/christophehumbert/eclipse-workspace/SimpleWatch24/source/SimpleWatch24View.mc" id="6" lineNum="253" pc="268436798" symbol="onUpdate"/>
+<entry filename="/Users/christophehumbert/eclipse-workspace/SimpleWatch24/source/SimpleWatch24View.mc" id="6" lineNum="254" pc="268436827" symbol="onUpdate"/>
+<entry filename="/Users/christophehumbert/eclipse-workspace/SimpleWatch24/source/SimpleWatch24View.mc" id="6" lineNum="256" pc="268436827" symbol="onUpdate"/>
+<entry filename="/Users/christophehumbert/eclipse-workspace/SimpleWatch24/source/SimpleWatch24View.mc" id="6" lineNum="261" pc="268436831" symbol="onUpdate"/>
+<entry filename="/Users/christophehumbert/eclipse-workspace/SimpleWatch24/source/SimpleWatch24View.mc" id="6" lineNum="262" pc="268436842" symbol="onUpdate"/>
+<entry filename="/Users/christophehumbert/eclipse-workspace/SimpleWatch24/source/SimpleWatch24View.mc" id="6" lineNum="263" pc="268436846" symbol="onUpdate"/>
+<entry filename="/Users/christophehumbert/eclipse-workspace/SimpleWatch24/source/SimpleWatch24View.mc" id="6" lineNum="264" pc="268436857" symbol="onUpdate"/>
+<entry filename="/Users/christophehumbert/eclipse-workspace/SimpleWatch24/source/SimpleWatch24View.mc" id="6" lineNum="268" pc="268436877" symbol="onUpdate"/>
+<entry filename="/Users/christophehumbert/eclipse-workspace/SimpleWatch24/source/SimpleWatch24View.mc" id="6" lineNum="272" pc="268436881" symbol="onUpdate"/>
+<entry filename="/Users/christophehumbert/eclipse-workspace/SimpleWatch24/source/SimpleWatch24View.mc" id="6" lineNum="273" pc="268436895" symbol="onUpdate"/>
+<entry filename="/Users/christophehumbert/eclipse-workspace/SimpleWatch24/source/SimpleWatch24View.mc" id="6" lineNum="274" pc="268436926" symbol="onUpdate"/>
+<entry filename="/Users/christophehumbert/eclipse-workspace/SimpleWatch24/source/SimpleWatch24View.mc" id="6" lineNum="276" pc="268436941" symbol="onUpdate"/>
+<entry filename="/Users/christophehumbert/eclipse-workspace/SimpleWatch24/source/SimpleWatch24View.mc" id="6" lineNum="277" pc="268436955" symbol="onUpdate"/>
+<entry filename="/Users/christophehumbert/eclipse-workspace/SimpleWatch24/source/SimpleWatch24View.mc" id="6" lineNum="278" pc="268436986" symbol="onUpdate"/>
+<entry filename="/Users/christophehumbert/eclipse-workspace/SimpleWatch24/source/SimpleWatch24View.mc" id="6" lineNum="280" pc="268437001" symbol="onUpdate"/>
+<entry filename="/Users/christophehumbert/eclipse-workspace/SimpleWatch24/source/SimpleWatch24View.mc" id="6" lineNum="281" pc="268437027" symbol="onUpdate"/>
+<entry filename="/Users/christophehumbert/eclipse-workspace/SimpleWatch24/source/SimpleWatch24View.mc" id="6" lineNum="283" pc="268437057" symbol="onUpdate"/>
+<entry filename="/Users/christophehumbert/eclipse-workspace/SimpleWatch24/source/SimpleWatch24View.mc" id="6" lineNum="284" pc="268437071" symbol="onUpdate"/>
+<entry filename="/Users/christophehumbert/eclipse-workspace/SimpleWatch24/source/SimpleWatch24View.mc" id="6" lineNum="285" pc="268437097" symbol="onUpdate"/>
+<entry filename="/Users/christophehumbert/eclipse-workspace/SimpleWatch24/source/SimpleWatch24View.mc" id="6" lineNum="288" pc="268437149" symbol="onUpdate"/>
+<entry filename="/Users/christophehumbert/eclipse-workspace/SimpleWatch24/source/SimpleWatch24View.mc" id="6" lineNum="289" pc="268437175" symbol="onUpdate"/>
+<entry filename="/Users/christophehumbert/eclipse-workspace/SimpleWatch24/source/SimpleWatch24View.mc" id="6" lineNum="292" pc="268437202" symbol="onUpdate"/>
+<entry filename="/Users/christophehumbert/eclipse-workspace/SimpleWatch24/source/SimpleWatch24View.mc" id="6" lineNum="293" pc="268437216" symbol="onUpdate"/>
+<entry filename="/Users/christophehumbert/eclipse-workspace/SimpleWatch24/source/SimpleWatch24View.mc" id="6" lineNum="294" pc="268437242" symbol="onUpdate"/>
+<entry filename="/Users/christophehumbert/eclipse-workspace/SimpleWatch24/source/SimpleWatch24View.mc" id="6" lineNum="299" pc="268437297" symbol="onUpdate"/>
+<entry filename="/Users/christophehumbert/eclipse-workspace/SimpleWatch24/source/SimpleWatch24View.mc" id="6" lineNum="301" pc="268437326" symbol="onUpdate"/>
+<entry filename="/Users/christophehumbert/eclipse-workspace/SimpleWatch24/source/SimpleWatch24View.mc" id="6" lineNum="303" pc="268437358" symbol="onUpdate"/>
+<entry filename="/Users/christophehumbert/eclipse-workspace/SimpleWatch24/source/SimpleWatch24View.mc" id="6" lineNum="304" pc="268437395" symbol="onUpdate"/>
+<entry filename="/Users/christophehumbert/eclipse-workspace/SimpleWatch24/source/SimpleWatch24View.mc" id="6" lineNum="305" pc="268437406" symbol="onUpdate"/>
+<entry filename="/Users/christophehumbert/eclipse-workspace/SimpleWatch24/source/SimpleWatch24View.mc" id="6" lineNum="307" pc="268437446" symbol="onUpdate"/>
+<entry filename="/Users/christophehumbert/eclipse-workspace/SimpleWatch24/source/SimpleWatch24View.mc" id="6" lineNum="310" pc="268437473" symbol="onUpdate"/>
+<entry filename="/Users/christophehumbert/eclipse-workspace/SimpleWatch24/source/SimpleWatch24View.mc" id="6" lineNum="311" pc="268437499" symbol="onUpdate"/>
+<entry filename="/Users/christophehumbert/eclipse-workspace/SimpleWatch24/source/SimpleWatch24View.mc" id="6" lineNum="315" pc="268437550" symbol="onUpdate"/>
+<entry filename="/Users/christophehumbert/eclipse-workspace/SimpleWatch24/source/SimpleWatch24View.mc" id="6" lineNum="316" pc="268437587" symbol="onUpdate"/>
+<entry filename="/Users/christophehumbert/eclipse-workspace/SimpleWatch24/source/SimpleWatch24View.mc" id="6" lineNum="317" pc="268437598" symbol="onUpdate"/>
+<entry filename="/Users/christophehumbert/eclipse-workspace/SimpleWatch24/source/SimpleWatch24View.mc" id="6" lineNum="319" pc="268437638" symbol="onUpdate"/>
+<entry filename="/Users/christophehumbert/eclipse-workspace/SimpleWatch24/source/SimpleWatch24View.mc" id="6" lineNum="324" pc="268437662" symbol="onUpdate"/>
+<entry filename="/Users/christophehumbert/eclipse-workspace/SimpleWatch24/source/SimpleWatch24View.mc" id="6" lineNum="325" pc="268437675" symbol="onUpdate"/>
+<entry filename="/Users/christophehumbert/eclipse-workspace/SimpleWatch24/source/SimpleWatch24View.mc" id="6" lineNum="332" pc="268437688" symbol="onUpdate"/>
+<entry filename="/Users/christophehumbert/eclipse-workspace/SimpleWatch24/source/SimpleWatch24View.mc" id="6" lineNum="333" pc="268437695" symbol="onUpdate"/>
+<entry filename="/Users/christophehumbert/eclipse-workspace/SimpleWatch24/source/SimpleWatch24View.mc" id="6" lineNum="334" pc="268437706" symbol="onUpdate"/>
+<entry filename="/Users/christophehumbert/eclipse-workspace/SimpleWatch24/source/SimpleWatch24View.mc" id="6" lineNum="335" pc="268437723" symbol="onUpdate"/>
+<entry filename="/Users/christophehumbert/eclipse-workspace/SimpleWatch24/source/SimpleWatch24View.mc" id="6" lineNum="337" pc="268437733" symbol="onUpdate"/>
+<entry filename="/Users/christophehumbert/eclipse-workspace/SimpleWatch24/source/SimpleWatch24View.mc" id="6" lineNum="338" pc="268437747" symbol="onUpdate"/>
+<entry filename="/Users/christophehumbert/eclipse-workspace/SimpleWatch24/source/SimpleWatch24View.mc" id="6" lineNum="346" pc="268437751" symbol="onUpdate"/>
+<entry filename="/Users/christophehumbert/eclipse-workspace/SimpleWatch24/source/SimpleWatch24View.mc" id="6" lineNum="348" pc="268437777" symbol="onUpdate"/>
+<entry filename="/Users/christophehumbert/eclipse-workspace/SimpleWatch24/source/SimpleWatch24View.mc" id="6" lineNum="349" pc="268437784" symbol="onUpdate"/>
+<entry filename="/Users/christophehumbert/eclipse-workspace/SimpleWatch24/source/SimpleWatch24View.mc" id="6" lineNum="350" pc="268437815" symbol="onUpdate"/>
+<entry filename="/Users/christophehumbert/eclipse-workspace/SimpleWatch24/source/SimpleWatch24View.mc" id="6" lineNum="353" pc="268437857" symbol="onUpdate"/>
+<entry filename="/Users/christophehumbert/eclipse-workspace/SimpleWatch24/source/SimpleWatch24View.mc" id="6" lineNum="354" pc="268437874" symbol="onUpdate"/>
+<entry filename="/Users/christophehumbert/eclipse-workspace/SimpleWatch24/source/SimpleWatch24View.mc" id="6" lineNum="356" pc="268437935" symbol="onUpdate"/>
+<entry filename="/Users/christophehumbert/eclipse-workspace/SimpleWatch24/source/SimpleWatch24View.mc" id="6" lineNum="357" pc="268437952" symbol="onUpdate"/>
+<entry filename="/Users/christophehumbert/eclipse-workspace/SimpleWatch24/source/SimpleWatch24View.mc" id="6" lineNum="359" pc="268438013" symbol="onUpdate"/>
+<entry filename="/Users/christophehumbert/eclipse-workspace/SimpleWatch24/source/SimpleWatch24View.mc" id="6" lineNum="360" pc="268438080" symbol="onUpdate"/>
+<entry filename="/Users/christophehumbert/eclipse-workspace/SimpleWatch24/source/SimpleWatch24View.mc" id="6" lineNum="362" pc="268438105" symbol="onUpdate"/>
+<entry filename="/Users/christophehumbert/eclipse-workspace/SimpleWatch24/source/SimpleWatch24View.mc" id="6" lineNum="372" pc="268438239" symbol="onUpdate"/>
+<entry filename="/Users/christophehumbert/eclipse-workspace/SimpleWatch24/source/SimpleWatch24View.mc" id="6" lineNum="373" pc="268438246" symbol="onUpdate"/>
+<entry filename="/Users/christophehumbert/eclipse-workspace/SimpleWatch24/source/SimpleWatch24View.mc" id="6" lineNum="374" pc="268438277" symbol="onUpdate"/>
+<entry filename="/Users/christophehumbert/eclipse-workspace/SimpleWatch24/source/SimpleWatch24View.mc" id="6" lineNum="377" pc="268438319" symbol="onUpdate"/>
+<entry filename="/Users/christophehumbert/eclipse-workspace/SimpleWatch24/source/SimpleWatch24View.mc" id="6" lineNum="378" pc="268438345" symbol="onUpdate"/>
+<entry filename="/Users/christophehumbert/eclipse-workspace/SimpleWatch24/source/SimpleWatch24View.mc" id="6" lineNum="379" pc="268438412" symbol="onUpdate"/>
+<entry filename="/Users/christophehumbert/eclipse-workspace/SimpleWatch24/source/SimpleWatch24View.mc" id="6" lineNum="381" pc="268438437" symbol="onUpdate"/>
+<entry filename="/Users/christophehumbert/eclipse-workspace/SimpleWatch24/source/SimpleWatch24View.mc" id="6" lineNum="393" pc="268438547" symbol="onUpdate"/>
+<entry filename="/Users/christophehumbert/eclipse-workspace/SimpleWatch24/source/SimpleWatch24View.mc" id="6" lineNum="394" pc="268438578" symbol="onUpdate"/>
+<entry filename="/Users/christophehumbert/eclipse-workspace/SimpleWatch24/source/SimpleWatch24View.mc" id="6" lineNum="395" pc="268438578" symbol="onUpdate"/>
+<entry filename="/Users/christophehumbert/eclipse-workspace/SimpleWatch24/source/SimpleWatch24View.mc" id="6" lineNum="397" pc="268438578" symbol="onUpdate"/>
+<entry filename="/Users/christophehumbert/eclipse-workspace/SimpleWatch24/source/SimpleWatch24View.mc" id="6" lineNum="398" pc="268438589" symbol="onUpdate"/>
+<entry filename="/Users/christophehumbert/eclipse-workspace/SimpleWatch24/source/SimpleWatch24View.mc" id="6" lineNum="399" pc="268438593" symbol="onUpdate"/>
+<entry filename="/Users/christophehumbert/eclipse-workspace/SimpleWatch24/source/SimpleWatch24View.mc" id="6" lineNum="401" pc="268438600" symbol="onUpdate"/>
+<entry filename="/Users/christophehumbert/eclipse-workspace/SimpleWatch24/source/SimpleWatch24View.mc" id="6" lineNum="402" pc="268438604" symbol="onUpdate"/>
+<entry filename="/Users/christophehumbert/eclipse-workspace/SimpleWatch24/source/SimpleWatch24View.mc" id="6" lineNum="405" pc="268438608" symbol="onUpdate"/>
+<entry filename="/Users/christophehumbert/eclipse-workspace/SimpleWatch24/source/SimpleWatch24View.mc" id="6" lineNum="406" pc="268438634" symbol="onUpdate"/>
+<entry filename="/Users/christophehumbert/eclipse-workspace/SimpleWatch24/source/SimpleWatch24View.mc" id="6" lineNum="407" pc="268438651" symbol="onUpdate"/>
+<entry filename="/Users/christophehumbert/eclipse-workspace/SimpleWatch24/source/SimpleWatch24View.mc" id="6" lineNum="411" pc="268438713" symbol="onUpdate"/>
+<entry filename="/Users/christophehumbert/eclipse-workspace/SimpleWatch24/source/SimpleWatch24View.mc" id="6" lineNum="412" pc="268438739" symbol="onUpdate"/>
+<entry filename="/Users/christophehumbert/eclipse-workspace/SimpleWatch24/source/SimpleWatch24View.mc" id="6" lineNum="417" pc="268438805" symbol="onUpdate"/>
+<entry filename="/Users/christophehumbert/eclipse-workspace/SimpleWatch24/source/SimpleWatch24View.mc" id="6" lineNum="418" pc="268438831" symbol="onUpdate"/>
+<entry filename="/Users/christophehumbert/eclipse-workspace/SimpleWatch24/source/SimpleWatch24View.mc" id="6" lineNum="424" pc="268438897" symbol="onUpdate"/>
+<entry filename="/Users/christophehumbert/eclipse-workspace/SimpleWatch24/source/SimpleWatch24View.mc" id="6" lineNum="425" pc="268438923" symbol="onUpdate"/>
+<entry filename="/Users/christophehumbert/eclipse-workspace/SimpleWatch24/source/SimpleWatch24View.mc" id="6" lineNum="426" pc="268438940" symbol="onUpdate"/>
+<entry filename="/Users/christophehumbert/eclipse-workspace/SimpleWatch24/source/SimpleWatch24View.mc" id="6" lineNum="430" pc="268439002" symbol="onUpdate"/>
+<entry filename="/Users/christophehumbert/eclipse-workspace/SimpleWatch24/source/SimpleWatch24View.mc" id="6" lineNum="431" pc="268439028" symbol="onUpdate"/>
+<entry filename="/Users/christophehumbert/eclipse-workspace/SimpleWatch24/source/SimpleWatch24View.mc" id="6" lineNum="436" pc="268439094" symbol="onUpdate"/>
+<entry filename="/Users/christophehumbert/eclipse-workspace/SimpleWatch24/source/SimpleWatch24View.mc" id="6" lineNum="437" pc="268439120" symbol="onUpdate"/>
+<entry filename="/Users/christophehumbert/eclipse-workspace/SimpleWatch24/source/SimpleWatch24View.mc" id="6" lineNum="443" pc="268439186" symbol="onUpdate"/>
+<entry filename="/Users/christophehumbert/eclipse-workspace/SimpleWatch24/source/SimpleWatch24View.mc" id="6" lineNum="444" pc="268439212" symbol="onUpdate"/>
+<entry filename="/Users/christophehumbert/eclipse-workspace/SimpleWatch24/source/SimpleWatch24View.mc" id="6" lineNum="446" pc="268439236" symbol="onUpdate"/>
+<entry filename="/Users/christophehumbert/eclipse-workspace/SimpleWatch24/source/SimpleWatch24View.mc" id="6" lineNum="447" pc="268439262" symbol="onUpdate"/>
+<entry filename="/Users/christophehumbert/eclipse-workspace/SimpleWatch24/source/SimpleWatch24View.mc" id="6" lineNum="452" pc="268439340" symbol="onUpdate"/>
+<entry filename="/Users/christophehumbert/eclipse-workspace/SimpleWatch24/source/SimpleWatch24View.mc" id="6" lineNum="453" pc="268439366" symbol="onUpdate"/>
+<entry filename="/Users/christophehumbert/eclipse-workspace/SimpleWatch24/source/SimpleWatch24View.mc" id="6" lineNum="459" pc="268439444" symbol="onUpdate"/>
+<entry filename="/Users/christophehumbert/eclipse-workspace/SimpleWatch24/source/SimpleWatch24View.mc" id="6" lineNum="461" pc="268439455" symbol="onUpdate"/>
+<entry filename="/Users/christophehumbert/eclipse-workspace/SimpleWatch24/source/SimpleWatch24View.mc" id="6" lineNum="462" pc="268439481" symbol="onUpdate"/>
+<entry filename="/Users/christophehumbert/eclipse-workspace/SimpleWatch24/source/SimpleWatch24View.mc" id="6" lineNum="464" pc="268439498" symbol="onUpdate"/>
+<entry filename="/Users/christophehumbert/eclipse-workspace/SimpleWatch24/source/SimpleWatch24View.mc" id="7" lineNum="476" pc="268439564" symbol="onHide"/>
+<entry filename="/Users/christophehumbert/eclipse-workspace/SimpleWatch24/source/SimpleWatch24View.mc" id="8" lineNum="480" pc="268439569" symbol="onExitSleep"/>
+<entry filename="/Users/christophehumbert/eclipse-workspace/SimpleWatch24/source/SimpleWatch24View.mc" id="9" lineNum="484" pc="268439574" symbol="onEnterSleep"/>
+<entry filename="/Users/christophehumbert/eclipse-workspace/SimpleWatch24/source/SimpleWatch24View.mc" id="10" lineNum="488" pc="268439579" symbol="returnColor"/>
+<entry filename="/Users/christophehumbert/eclipse-workspace/SimpleWatch24/source/SimpleWatch24View.mc" id="10" lineNum="489" pc="268439583" symbol="returnColor"/>
+<entry filename="/Users/christophehumbert/eclipse-workspace/SimpleWatch24/source/SimpleWatch24View.mc" id="10" lineNum="530" pc="268439842" symbol="returnColor"/>
+<entry filename="/Users/christophehumbert/eclipse-workspace/SimpleWatch24/source/SimpleWatch24View.mc" id="10" lineNum="531" pc="268439855" symbol="returnColor"/>
+<entry filename="/Users/christophehumbert/eclipse-workspace/SimpleWatch24/source/SimpleWatch24View.mc" id="10" lineNum="491" pc="268439861" symbol="returnColor"/>
+<entry filename="/Users/christophehumbert/eclipse-workspace/SimpleWatch24/source/SimpleWatch24View.mc" id="10" lineNum="492" pc="268439874" symbol="returnColor"/>
+<entry filename="/Users/christophehumbert/eclipse-workspace/SimpleWatch24/source/SimpleWatch24View.mc" id="10" lineNum="494" pc="268439877" symbol="returnColor"/>
+<entry filename="/Users/christophehumbert/eclipse-workspace/SimpleWatch24/source/SimpleWatch24View.mc" id="10" lineNum="495" pc="268439890" symbol="returnColor"/>
+<entry filename="/Users/christophehumbert/eclipse-workspace/SimpleWatch24/source/SimpleWatch24View.mc" id="10" lineNum="497" pc="268439893" symbol="returnColor"/>
+<entry filename="/Users/christophehumbert/eclipse-workspace/SimpleWatch24/source/SimpleWatch24View.mc" id="10" lineNum="498" pc="268439906" symbol="returnColor"/>
+<entry filename="/Users/christophehumbert/eclipse-workspace/SimpleWatch24/source/SimpleWatch24View.mc" id="10" lineNum="500" pc="268439909" symbol="returnColor"/>
+<entry filename="/Users/christophehumbert/eclipse-workspace/SimpleWatch24/source/SimpleWatch24View.mc" id="10" lineNum="501" pc="268439922" symbol="returnColor"/>
+<entry filename="/Users/christophehumbert/eclipse-workspace/SimpleWatch24/source/SimpleWatch24View.mc" id="10" lineNum="503" pc="268439925" symbol="returnColor"/>
+<entry filename="/Users/christophehumbert/eclipse-workspace/SimpleWatch24/source/SimpleWatch24View.mc" id="10" lineNum="504" pc="268439938" symbol="returnColor"/>
+<entry filename="/Users/christophehumbert/eclipse-workspace/SimpleWatch24/source/SimpleWatch24View.mc" id="10" lineNum="506" pc="268439941" symbol="returnColor"/>
+<entry filename="/Users/christophehumbert/eclipse-workspace/SimpleWatch24/source/SimpleWatch24View.mc" id="10" lineNum="507" pc="268439954" symbol="returnColor"/>
+<entry filename="/Users/christophehumbert/eclipse-workspace/SimpleWatch24/source/SimpleWatch24View.mc" id="10" lineNum="509" pc="268439957" symbol="returnColor"/>
+<entry filename="/Users/christophehumbert/eclipse-workspace/SimpleWatch24/source/SimpleWatch24View.mc" id="10" lineNum="510" pc="268439970" symbol="returnColor"/>
+<entry filename="/Users/christophehumbert/eclipse-workspace/SimpleWatch24/source/SimpleWatch24View.mc" id="10" lineNum="512" pc="268439973" symbol="returnColor"/>
+<entry filename="/Users/christophehumbert/eclipse-workspace/SimpleWatch24/source/SimpleWatch24View.mc" id="10" lineNum="513" pc="268439986" symbol="returnColor"/>
+<entry filename="/Users/christophehumbert/eclipse-workspace/SimpleWatch24/source/SimpleWatch24View.mc" id="10" lineNum="515" pc="268439989" symbol="returnColor"/>
+<entry filename="/Users/christophehumbert/eclipse-workspace/SimpleWatch24/source/SimpleWatch24View.mc" id="10" lineNum="516" pc="268440002" symbol="returnColor"/>
+<entry filename="/Users/christophehumbert/eclipse-workspace/SimpleWatch24/source/SimpleWatch24View.mc" id="10" lineNum="518" pc="268440005" symbol="returnColor"/>
+<entry filename="/Users/christophehumbert/eclipse-workspace/SimpleWatch24/source/SimpleWatch24View.mc" id="10" lineNum="519" pc="268440018" symbol="returnColor"/>
+<entry filename="/Users/christophehumbert/eclipse-workspace/SimpleWatch24/source/SimpleWatch24View.mc" id="10" lineNum="521" pc="268440021" symbol="returnColor"/>
+<entry filename="/Users/christophehumbert/eclipse-workspace/SimpleWatch24/source/SimpleWatch24View.mc" id="10" lineNum="522" pc="268440034" symbol="returnColor"/>
+<entry filename="/Users/christophehumbert/eclipse-workspace/SimpleWatch24/source/SimpleWatch24View.mc" id="10" lineNum="524" pc="268440037" symbol="returnColor"/>
+<entry filename="/Users/christophehumbert/eclipse-workspace/SimpleWatch24/source/SimpleWatch24View.mc" id="10" lineNum="525" pc="268440050" symbol="returnColor"/>
+<entry filename="/Users/christophehumbert/eclipse-workspace/SimpleWatch24/source/SimpleWatch24View.mc" id="10" lineNum="527" pc="268440053" symbol="returnColor"/>
+<entry filename="/Users/christophehumbert/eclipse-workspace/SimpleWatch24/source/SimpleWatch24View.mc" id="10" lineNum="528" pc="268440066" symbol="returnColor"/>
+<entry filename="/Users/christophehumbert/eclipse-workspace/SimpleWatch24/source/SimpleWatch24App.mc" id="12" lineNum="6" pc="268440073" symbol="initialize"/>
+<entry filename="/Users/christophehumbert/eclipse-workspace/SimpleWatch24/source/SimpleWatch24App.mc" id="12" lineNum="7" pc="268440077" symbol="initialize"/>
+<entry filename="/Users/christophehumbert/eclipse-workspace/SimpleWatch24/source/SimpleWatch24App.mc" id="13" lineNum="11" pc="268440096" symbol="onStart"/>
+<entry filename="/Users/christophehumbert/eclipse-workspace/SimpleWatch24/source/SimpleWatch24App.mc" id="14" lineNum="15" pc="268440101" symbol="onStop"/>
+<entry filename="/Users/christophehumbert/eclipse-workspace/SimpleWatch24/source/SimpleWatch24App.mc" id="15" lineNum="19" pc="268440106" symbol="getInitialView"/>
+<entry filename="/Users/christophehumbert/eclipse-workspace/SimpleWatch24/source/SimpleWatch24App.mc" id="15" lineNum="20" pc="268440110" symbol="getInitialView"/>
+<entry filename="/Users/christophehumbert/eclipse-workspace/SimpleWatch24/source/SimpleWatch24App.mc" id="16" lineNum="24" pc="268440148" symbol="onSettingsChanged"/>
+<entry filename="/Users/christophehumbert/eclipse-workspace/SimpleWatch24/source/SimpleWatch24App.mc" id="16" lineNum="25" pc="268440152" symbol="onSettingsChanged"/>
+<entry filename="/Users/christophehumbert/eclipse-workspace/SimpleWatch24/source/SimpleWatch24Background.mc" id="18" lineNum="7" pc="268440169" symbol="initialize"/>
+<entry filename="/Users/christophehumbert/eclipse-workspace/SimpleWatch24/source/SimpleWatch24Background.mc" id="18" lineNum="8" pc="268440173" symbol="initialize"/>
+<entry filename="/Users/christophehumbert/eclipse-workspace/SimpleWatch24/source/SimpleWatch24Background.mc" id="18" lineNum="12" pc="268440194" symbol="initialize"/>
+<entry filename="/Users/christophehumbert/eclipse-workspace/SimpleWatch24/source/SimpleWatch24Background.mc" id="19" lineNum="15" pc="268440215" symbol="draw"/>
+<entry filename="/Users/christophehumbert/eclipse-workspace/SimpleWatch24/source/SimpleWatch24Background.mc" id="19" lineNum="17" pc="268440219" symbol="draw"/>
+<entry filename="/Users/christophehumbert/eclipse-workspace/SimpleWatch24/source/SimpleWatch24Background.mc" id="19" lineNum="18" pc="268440272" symbol="draw"/>
+<entry filename="Rez" id="25" lineNum="19" pc="268440285" symbol="WatchFace"/>
+<entry filename="Rez" id="25" lineNum="21" pc="268440297" symbol="WatchFace"/>
+<entry filename="Rez" id="25" lineNum="23" pc="268440460" symbol="WatchFace"/>
+</pcToLineNum>
+<symbolTable>
+<entry field="true" id="21" symbol="ShowBatteryArc"/>
+<entry field="true" id="31" symbol="ShowStepsArc"/>
+<entry id="8389124" method="true" symbol="onUpdate"/>
+<entry field="true" id="13" symbol="Notification"/>
+<entry id="8389349" symbol="justification"/>
+<entry field="true" id="34" symbol="ArcColorOut"/>
+<entry field="true" id="19" symbol="ColorBlue"/>
+<entry field="true" id="16" symbol="NotconnectedBlack"/>
+<entry field="true" id="8388611" module="true" symbol="Toybox"/>
+<entry id="8388645" module="true" symbol="Time"/>
+<entry field="true" id="48" symbol="stepsPercent"/>
+<entry field="true" id="36" symbol="ColorOrange"/>
+<entry field="true" id="41" symbol="ShowYes"/>
+<entry id="8388770" module="true" object="true" symbol="Strings"/>
+<entry field="true" id="30" symbol="ColorGreen"/>
+<entry field="true" id="44" symbol="TWO_PI"/>
+<entry field="true" id="22" symbol="ColorYellow"/>
+<entry field="true" id="29" symbol="ColorWhite"/>
+<entry id="8389280" method="true" symbol="getInitialView"/>
+<entry id="8389068" method="true" symbol="draw"/>
+<entry id="8389377" method="true" symbol="onExitSleep"/>
+<entry id="8388640" module="true" symbol="Lang"/>
+<entry id="8388639" module="true" symbol="Graphics"/>
+<entry field="true" id="35" symbol="ColorBlack"/>
+<entry id="8388769" module="true" object="true" symbol="Rez"/>
+<entry id="8389123" method="true" symbol="onShow"/>
+<entry field="true" id="25" symbol="ColorDarkGreen"/>
+<entry field="true" id="47" symbol="stepsNow"/>
+<entry field="true" id="28" symbol="ColorPink"/>
+<entry field="true" id="18" symbol="ShowXL"/>
+<entry field="true" id="26" symbol="ColorRed"/>
+<entry field="true" id="27" symbol="ArcColorIn"/>
+<entry id="8388702" method="true" symbol="initialize"/>
+<entry field="true" id="24" symbol="LargeArc"/>
+<entry field="true" id="23" symbol="AppName"/>
+<entry field="true" id="38" symbol="ShowNo"/>
+<entry id="8389375" method="true" object="true" symbol="WatchFace"/>
+<entry field="true" id="37" symbol="ColorHand"/>
+<entry id="8390146" module="true" object="true" symbol="Background"/>
+<entry field="true" id="14" symbol="NotificationBlack"/>
+<entry id="8388641" module="true" symbol="Math"/>
+<entry field="true" id="17" symbol="LauncherIcon"/>
+<entry id="8389683" method="true" symbol="onSettingsChanged"/>
+<entry id="9" object="true" symbol="SimpleWatch24View"/>
+<entry id="8388648" module="true" symbol="WatchUi"/>
+<entry id="8389281" method="true" symbol="onStop"/>
+<entry field="true" id="8389065" symbol="locY"/>
+<entry field="true" id="8389064" symbol="locX"/>
+<entry id="8388771" module="true" object="true" symbol="Drawables"/>
+<entry id="8389122" method="true" symbol="onLayout"/>
+<entry id="8389279" method="true" symbol="onStart"/>
+<entry id="8389376" method="true" symbol="onEnterSleep"/>
+<entry id="8389348" symbol="font"/>
+<entry id="8389347" symbol="color"/>
+<entry field="true" id="43" symbol="isAwake"/>
+<entry field="true" id="32" symbol="InversColor"/>
+<entry field="true" id="46" symbol="stepsMax"/>
+<entry id="11" module="true" symbol="Layouts"/>
+<entry field="true" id="33" symbol="ColorDarkBlue"/>
+<entry id="8389125" method="true" symbol="onHide"/>
+<entry id="8390088" module="true" object="true" symbol="JsonData"/>
+<entry field="true" id="8389063" symbol="identifier"/>
+<entry field="true" id="45" symbol="ANGLE_ADJUST"/>
+<entry field="true" id="39" symbol="ShowAwake"/>
+<entry id="12" module="true" symbol="Menus"/>
+<entry id="10" object="true" symbol="SimpleWatch24App"/>
+<entry field="true" id="40" symbol="ColorGray"/>
+<entry field="true" id="20" symbol="ColorDarkRed"/>
+<entry field="true" id="15" symbol="Notconnected"/>
+<entry id="8388772" module="true" object="true" symbol="Fonts"/>
+<entry id="8388635" module="true" symbol="Application"/>
+<entry field="true" id="42" symbol="ColorPurple"/>
+<entry id="49" method="true" symbol="returnColor"/>
+</symbolTable>
+<localVars>
+<entry endPc="268435484" name="dc" stackId="1" startPc="268435479"/>
+<entry endPc="268437470" name="DrawIconNotification" stackId="45" startPc="268437358"/>
+<entry endPc="268437662" name="DrawIconConnected" stackId="46" startPc="268437550"/>
+<entry endPc="268439563" name="width" stackId="47" startPc="268435493"/>
+<entry endPc="268439563" name="minute_angle" stackId="30" startPc="268435493"/>
+<entry endPc="268439563" name="center_y" stackId="3" startPc="268435493"/>
+<entry endPc="268439563" name="center_x" stackId="2" startPc="268435493"/>
+<entry endPc="268439563" name="pos_min" stackId="21" startPc="268435493"/>
+<entry endPc="268439563" name="height" stackId="48" startPc="268435493"/>
+<entry endPc="268439563" name="pos_large" stackId="49" startPc="268435493"/>
+<entry endPc="268439563" name="xyz_hour" stackId="34" startPc="268435493"/>
+<entry endPc="268439563" name="color_arc_out" stackId="41" startPc="268435493"/>
+<entry endPc="268439563" name="diameter" stackId="4" startPc="268435493"/>
+<entry endPc="268439563" name="color_foreground" stackId="24" startPc="268435493"/>
+<entry endPc="268439563" name="color_background" stackId="23" startPc="268435493"/>
+<entry endPc="268439563" name="l_circ_back" stackId="11" startPc="268435493"/>
+<entry endPc="268439563" name="minute_length" stackId="16" startPc="268435493"/>
+<entry endPc="268439563" name="hour_fraction" stackId="29" startPc="268435493"/>
+<entry endPc="268439563" name="color_hand_in" stackId="53" startPc="268435493"/>
+<entry endPc="268439563" name="PropertiesShowBattery" stackId="51" startPc="268435493"/>
+<entry endPc="268439563" name="percent_big_circ" stackId="6" startPc="268435493"/>
+<entry endPc="268439563" name="xyz_min" stackId="33" startPc="268435493"/>
+<entry endPc="268439563" name="color_hand_out" stackId="54" startPc="268435493"/>
+<entry endPc="268439563" name="colorPropertiesOut" stackId="42" startPc="268435493"/>
+<entry endPc="268439563" name="seconde_length" stackId="15" startPc="268435493"/>
+<entry endPc="268439563" name="pos_l" stackId="13" startPc="268435493"/>
+<entry endPc="268439563" name="hour" stackId="26" startPc="268435493"/>
+<entry endPc="268439563" name="arc_radius" stackId="20" startPc="268435493"/>
+<entry endPc="268439563" name="percent_pos_oth" stackId="9" startPc="268435493"/>
+<entry endPc="268439563" name="pos_dec" stackId="10" startPc="268435493"/>
+<entry endPc="268439563" name="battery_color" stackId="40" startPc="268435493"/>
+<entry endPc="268439563" name="arc_width" stackId="18" startPc="268435493"/>
+<entry endPc="268439563" name="seconde_angle" stackId="32" startPc="268435493"/>
+<entry endPc="268439563" name="PropertiesShowSteps" stackId="50" startPc="268435493"/>
+<entry endPc="268439563" name="sec" stackId="28" startPc="268435493"/>
+<entry endPc="268439563" name="hour_angle" stackId="31" startPc="268435493"/>
+<entry endPc="268439563" name="color_arc_in" stackId="43" startPc="268435493"/>
+<entry endPc="268439563" name="arc_height" stackId="19" startPc="268435493"/>
+<entry endPc="268439563" name="colorPropertiesIn" stackId="44" startPc="268435493"/>
+<entry endPc="268439563" name="percent_lit_circ" stackId="7" startPc="268435493"/>
+<entry endPc="268439563" name="radius" stackId="5" startPc="268435493"/>
+<entry endPc="268439563" name="now" stackId="25" startPc="268435493"/>
+<entry endPc="268439563" name="hour_length" stackId="17" startPc="268435493"/>
+<entry endPc="268439563" name="percent_pos_dat" stackId="8" startPc="268435493"/>
+<entry endPc="268439563" name="color_sec" stackId="35" startPc="268435493"/>
+<entry endPc="268439563" name="date" stackId="36" startPc="268435493"/>
+<entry endPc="268439563" name="info" stackId="37" startPc="268435493"/>
+<entry endPc="268439563" name="invers_color" stackId="22" startPc="268435493"/>
+<entry endPc="268439563" name="color_hand" stackId="52" startPc="268435493"/>
+<entry endPc="268439563" name="large_arc" stackId="14" startPc="268435493"/>
+<entry endPc="268439563" name="dayDate" stackId="38" startPc="268435493"/>
+<entry endPc="268439563" name="min" stackId="27" startPc="268435493"/>
+<entry endPc="268439563" name="l_circ" stackId="12" startPc="268435493"/>
+<entry endPc="268439563" name="battery" stackId="39" startPc="268435493"/>
+<entry endPc="268439564" name="dc" stackId="1" startPc="268435489"/>
+<entry endPc="268440073" name="colorNum" stackId="1" startPc="268439579"/>
+<entry endPc="268440101" name="state" stackId="1" startPc="268440096"/>
+<entry endPc="268440106" name="state" stackId="1" startPc="268440101"/>
+<entry endPc="268440214" name="dictionary" stackId="1" startPc="268440173"/>
+<entry endPc="268440285" name="dc" stackId="1" startPc="268440215"/>
+<entry endPc="268440477" name="rez_cmp_local_text_TimeLabel" stackId="2" startPc="268440297"/>
+<entry endPc="268440478" name="dc" stackId="1" startPc="268440285"/>
+</localVars>
+<annotations/>
+<dataEntryOffsetMappings>
+<dataEntry offset="87" parentId="" symbolId="globals" type="module"/>
+<dataEntry offset="182" parentId="globals" symbolId="Background" type="class"/>
+<dataEntry offset="237" parentId="globals" symbolId="Rez" type="module"/>
+<dataEntry offset="316" parentId="Rez" symbolId="Drawables" type="module"/>
+<dataEntry offset="387" parentId="Rez" symbolId="Menus" type="module"/>
+<dataEntry offset="418" parentId="Rez" symbolId="Fonts" type="module"/>
+<dataEntry offset="449" parentId="Rez" symbolId="Layouts" type="module"/>
+<dataEntry offset="488" parentId="Rez" symbolId="JsonData" type="module"/>
+<dataEntry offset="519" parentId="Rez" symbolId="Strings" type="module"/>
+<dataEntry offset="750" parentId="globals" symbolId="SimpleWatch24App" type="class"/>
+<dataEntry offset="829" parentId="globals" symbolId="SimpleWatch24View" type="class"/>
+</dataEntryOffsetMappings>
+<functions>
+<functionEntry accessMode="public" name="initialize" parent="SimpleWatch24View">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onLayout" parent="SimpleWatch24View">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onShow" parent="SimpleWatch24View">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onUpdate" parent="SimpleWatch24View">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onHide" parent="SimpleWatch24View">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onExitSleep" parent="SimpleWatch24View">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onEnterSleep" parent="SimpleWatch24View">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="returnColor" parent="SimpleWatch24View">
+<param id="colorNum"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="initialize" parent="SimpleWatch24App">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onStart" parent="SimpleWatch24App">
+<param id="state"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onStop" parent="SimpleWatch24App">
+<param id="state"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="getInitialView" parent="SimpleWatch24App">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onSettingsChanged" parent="SimpleWatch24App">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="initialize" parent="Background">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="draw" parent="Background">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="WatchFace" parent="Layouts">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+</functions>
+</debugInfo>
